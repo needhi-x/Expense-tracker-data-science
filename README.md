@@ -12,7 +12,9 @@ Managing personal expenses manually often leads to:
 
 ## ✅ Solution
 This project uses Data Science techniques to:
-### 🔹 Core Functionalities
+
+
+🔹 Core Functionalities
 - Store expense data in structured format
 - Analyze spending patterns using Pandas
 - Visualize insights using charts
